@@ -24,3 +24,12 @@ yarn-error.log*
 
 #ssh keys
 /.ssh
+id_rsa.pub
+id_rsa
+id_dsa.pub
+id_dsa
+id_ecdsa
+id_ecdsa.pub
+*.pem
+*.keys
+*.pub
